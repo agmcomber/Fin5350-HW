@@ -69,3 +69,24 @@ I am afraid I am unsure how I could write a more in depth absract to a paper tha
 ## Introduction
 
 According to James Buchanan, an economist should focus on studying the mutually beneficial association between dissimilar organisms.  Although Buchanan may not had known it at the time, he was touching on a relatively new field of economics based on observing behavioral tendincies in markets.  In Buchanans' paper "What Should Economists Do?", he identifies the issue with the current mathematical obsession that seems to have taken over the economists field, in this paper I want to try and create a happy medium where we can usu computational methods to establish empircal data that helps us maximize the mutually beneficial assocation that we have with everyone we transact with in our current markets.  Simulation with the assistance of artificial intelligence is an avenue that we must look at in a very serious way to try and understand the behavior we can expect to see in any scenario. 
+
+
+## Literature Review
+
+The papers that I have chosen thus far focus on a couple different topics, subjectivism, simulations, normative relevance in economics and knowledge problems.  They seek to identify issues with certain schools of thought within the economic sphere and try to identify the best ways to go about economic research.  I particularly enjoyed "A Plea for (Good) Simulations:Nudging Economics Toward an Experimental Science" by Julian Reiss because it raises the false concerns that researches have with respect to simulations and makes a very good case for the validity of this empirical approach in the future.  
+
+## Outline
+
+    - Introduction
+    
+    - Shortfalls with a mathematical approach to optimization within economies
+    - Shortfalls with purely behvaioral approach to optimization within economies
+    - A happy medium with both a mathematical and empirical approach to optimization
+    - New possibilities with AI simulation
+    
+    - Conclusion
+    
+    
+    
+  
+  

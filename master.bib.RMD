@@ -1,0 +1,45 @@
+@article{10.2307/1055931,
+  ISSN = {00384038},
+  URL = {http://www.jstor.org/stable/1055931},
+  author = {James M. Buchanan},
+  journal = {Southern Economic Journal},
+  number = {3},
+  pages = {213--222},
+  publisher = {Southern Economic Association},
+  title = {What Should Economists Do?},
+  volume = {30},
+  year = {1964}
+}
+
+@article{article,
+  author = {G. Martin, Adam},
+  year = {2014},
+  month = {03},
+  pages = {},
+  title = {Where are the big bills? Escaping the endogenizerΓÇÖs dilemma},
+  volume = {27},
+  journal = {The Review of Austrian Economics},
+  doi = {10.1007/s11138-013-0231-y}
+}
+
+@book{thaler2015misbehaving,
+  title={Misbehaving: The Making of Behavioral Economics},
+  author={Thaler, R.H.},
+  isbn={9780393080940},
+  lccn={2015004600},
+  series={Business/Economics},
+  url={https://books.google.com/books?id=CorKoQEACAAJ},
+  year={2015},
+  publisher={W.W. Norton}
+}
+
+@book{buchanan1979should,
+  title={What should economists do?},
+  author={Buchanan, J.M.},
+  isbn={9780913966655},
+  lccn={79019511},
+  series={Liberty classics},
+  url={https://books.google.com/books?id=mtUOAQAAMAAJ},
+  year={1979},
+  publisher={Liberty Press}
+}
